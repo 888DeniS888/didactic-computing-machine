@@ -1,7 +1,0 @@
-D:\ВУЗ\4 курс\Генетические алгоритмы\Величко\LR_2_queens\LR_2_queens\bin\Debug\LR_2_queens.exe.config
-D:\ВУЗ\4 курс\Генетические алгоритмы\Величко\LR_2_queens\LR_2_queens\bin\Debug\LR_2_queens.exe
-D:\ВУЗ\4 курс\Генетические алгоритмы\Величко\LR_2_queens\LR_2_queens\bin\Debug\LR_2_queens.pdb
-D:\ВУЗ\4 курс\Генетические алгоритмы\Величко\LR_2_queens\LR_2_queens\obj\Debug\LR_2_queens.csprojAssemblyReference.cache
-D:\ВУЗ\4 курс\Генетические алгоритмы\Величко\LR_2_queens\LR_2_queens\obj\Debug\LR_2_queens.csproj.CoreCompileInputs.cache
-D:\ВУЗ\4 курс\Генетические алгоритмы\Величко\LR_2_queens\LR_2_queens\obj\Debug\LR_2_queens.exe
-D:\ВУЗ\4 курс\Генетические алгоритмы\Величко\LR_2_queens\LR_2_queens\obj\Debug\LR_2_queens.pdb
